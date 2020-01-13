@@ -1,3 +1,4 @@
+My first TestSuite
 # TestSuite1
 {
 	"info": {
